@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @regalglass
 - 👀 I’m interested in coding & chess
 - 🌱 I’m currently learning javascript 
-- 📫 How to reach me email
+- 📫 How to reach me: email me at hritishasapu@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
